@@ -1733,7 +1733,7 @@ input::-moz-focus-inner {
 
 .masonry .entry {
   margin-bottom: 40px;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.7);
 }
 
 .masonry .entry__thumb {
