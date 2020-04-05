@@ -18,7 +18,7 @@ description: Blog about left books. Reviews and articles.
             <article class="masonry__brick entry format-standard animate-this">
                     
                 <div class="entry__thumb">
-                    <a href="{{post.url}}" class="entry__thumb-link">
+                    <a href="{{ post.url }}" class="entry__thumb-link">
                         <img src="assets/images/cover_pages/{{post.image}}" 
                                 srcset="assets/images/cover_pages/{{post.image}} 1x, assets/images/cover_pages/{{post.image}} 2x" alt="Cover page of the book being summerized">
                     </a>
@@ -27,13 +27,13 @@ description: Blog about left books. Reviews and articles.
                 <div class="entry__text">
                     <div class="entry__header">
 
-                        <h2 class="entry__title"><a href="{{post.url}}">{{post.title}}</a></h2>
+                        <h2 class="entry__title"><a href="{{ post.url }}">{{post.title}}</a></h2>
                         <div class="entry__meta">
                             <span class="entry__meta-cat">
                                 <a href="category.html">{{post.author}}</a>                                
                             </span>
                             <span class="entry__meta-date">
-                                <a href="{{post.url}}">Apr 29, 2019</a>
+                                <a href="{{ post.url }}">Apr 29, 2019</a>
                             </span>
                             <span class="entry__meta-cat">
                                 <a href="category.html">{{post.category[0]}}</a> 
