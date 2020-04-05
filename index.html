@@ -1,0 +1,59 @@
+---
+layout: default
+title: The Left Diary
+description: Blog about left books. Reviews and articles.
+---
+
+
+<div class="s-content"  id="top">
+          
+    <div class="masonry-wrap">
+        
+        <div class="masonry">
+
+            <div class="grid-sizer"></div>
+
+        
+            {% for post in site.posts %} 
+            <article class="masonry__brick entry format-standard animate-this">
+                    
+                <div class="entry__thumb">
+                    <a href="{{post.url}}" class="entry__thumb-link">
+                        <img src="{{site.baseurl}}/assets/images/cover_pages/{{post.image}}" 
+                                srcset="{{site.baseurl}}/assets/images/cover_pages/{{post.image}} 1x, {{site.baseurl}}/assets/images/cover_pages/{{post.image}} 2x" alt="Cover page of the book being summerized">
+                    </a>
+                </div>
+
+                <div class="entry__text">
+                    <div class="entry__header">
+
+                        <h2 class="entry__title"><a href="{{post.url}}">{{post.title}}</a></h2>
+                        <div class="entry__meta">
+                            <span class="entry__meta-cat">
+                                <a href="category.html">{{post.author}}</a>                                
+                            </span>
+                            <span class="entry__meta-date">
+                                <a href="{{post.url}}">Apr 29, 2019</a>
+                            </span>
+                            <span class="entry__meta-cat">
+                                <a href="category.html">{{post.category[0]}}</a> 
+                                <a href="category.html">{{post.category[1]}}</a>
+                            </span>
+                        </div>
+                        
+                    </div>
+                    <div class="entry__excerpt">
+                        <p>
+                        {{post.content | strip_html | remove_first: "Get the book" |truncatewords:30}}
+                        </p>
+                    </div>
+                </div>
+
+            </article> <!-- end article -->
+            {% endfor %}
+        </div>
+        
+    </div>
+     
+</div>
+           
