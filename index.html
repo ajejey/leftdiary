@@ -33,7 +33,7 @@ description: Blog about left books. Reviews and articles.
                                 <a href="category.html">{{post.author}}</a>                                
                             </span>
                             <span class="entry__meta-date">
-                                <a href="{{ post.url | absolute_url }}">Apr 29, 2019</a>
+                                <a href="{{ post.url | absolute_url }}">{{post.date | date: "%b %d, %Y"}}</a>
                             </span>
                             <span class="entry__meta-cat">
                                 <a href="category.html">{{post.category[0]}}</a> 
@@ -44,7 +44,7 @@ description: Blog about left books. Reviews and articles.
                     </div>
                     <div class="entry__excerpt">
                         <p>
-                        {{post.content | strip_html | remove_first: "Get the book" |truncatewords:30}}
+                        {{post.description | strip_html | truncatewords:30}}
                         </p>
                     </div>
                 </div>
