@@ -6,11 +6,11 @@ author: Left Diary
 permalink: roxane-gay-bad-feminist-essays-resonate
 category: [feminism, Must read, Roxane Gay, essays, cultural criticism, contemporary]
 published: true
-link: https://amzn.to/2VqThJ4 # Example Amazon link for Bad Feminist
+link: https://www.amazon.com/dp/B00HYG914M?tag=bestbooks88-20 # ASIN for Harper Perennial 2014 Kindle Edition
 description: "Roxane Gay's 'Bad Feminist' redefined what it means to be a feminist in the modern world. Explore why these sharp, witty, and deeply personal essays on culture, identity, and imperfection continue to resonate so powerfully."
 ---
 
-<div class="s-content content">
+<div class="content">
     <main class="row s-styles">
         <section id="styles" class="column large-full">
 
@@ -47,7 +47,7 @@ description: "Roxane Gay's 'Bad Feminist' redefined what it means to be a femini
 
                 <p><strong>Myth-Busting Insight 1: There's No Such Thing as a "Perfect" Feminist.</strong> Gay dismantles the damaging myth of feminist purity. The expectation to be a flawless ideologue can be alienating and unrealistic, scaring people away from identifying with feminism. By calling herself a "bad feminist," Gay creates space for those who believe in equality but also grapple with their own internal contradictions and the complexities of navigating a flawed world. She writes, "I embrace the label of bad feminist because I am human. I am messy. I’m not trying to be an example. I am not trying to be perfect. I am not trying to say I have all the answers. I am just trying to support what I believe in, trying to do some good in this world, trying to make some noise with my writing while also being myself."</p>
 
-                <p><em>Internal Link Idea: This discussion of feminist identity could link to the <a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books guide</a>, highlighting the diversity of feminist thought.</em></p>
+                <p>This embrace of diverse and sometimes contradictory feminist identities is a theme you can explore further in our <a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books guide</a>.</p>
 
                 <h2>Pop Culture, Politics, and Personal Pain: The Scope of "Bad Feminist"</h2>
 
@@ -69,9 +69,7 @@ description: "Roxane Gay's 'Bad Feminist' redefined what it means to be a femini
 
                 <p>The collection gives readers permission to be flawed, to be learning, and to still claim feminism. It reminds us that feminism is not about achieving a perfect score on an ideological test, but about a commitment to "equality and human dignity." It’s about showing up, speaking out (even imperfectly), and trying to make the world a little bit better, one "bad feminist" act at a time.</p>
 
-                <p>Her voice is a crucial reminder that feminism is for everybody—even, and perhaps especially, for those of us who feel like we’re doing it "badly."</p>
-
-                <p><em>Internal Link Idea: This could link to the post on <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">"Feminism is for Everybody" by bell hooks</a>, drawing parallels in their goals of making feminism more inclusive.</em></p>
+                <p>Her voice is a crucial reminder that feminism is for everybody—even, and perhaps especially, for those of us who feel like we’re doing it "badly." This sentiment echoes the inclusive message in <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">"Feminism is for Everybody" by bell hooks</a>.</p>
 
                 <hr>
                 <p><strong>Further Reading & Related Posts:</strong></p>
@@ -79,7 +77,7 @@ description: "Roxane Gay's 'Bad Feminist' redefined what it means to be a femini
                     <li><a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks' Essential Reads</a></li>
                     <li><a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">Understanding Black Feminist Thought: Patricia Hill Collins</a></li>
                     <li><a href="{{ site.baseurl }}/audre-lorde-books-zami-sister-outsider">Audre Lorde Books You Can't Miss</a></li>
-                    <li><a href="#">Hood Feminism: Notes from the Women That a Movement Forgot</a> (Placeholder)</li>
+                    <li><a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books to Read in 2024: A Definitive Guide</a></li>
                 </ul>
 
             </div>

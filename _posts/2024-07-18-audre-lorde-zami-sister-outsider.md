@@ -6,11 +6,11 @@ author: Left Diary
 permalink: audre-lorde-books-zami-sister-outsider
 category: [feminism, Must read, Audre Lorde, Black feminism, LGBTQ+, poetry, essays]
 published: true
-link: https://amzn.to/3fI3XqT # Example Amazon link for Sister Outsider
+link: https://www.amazon.com/dp/B0C5N2M3FJ?tag=bestbooks88-20 # ASIN for Sister Outsider (Penguin Classics 2023)
 description: "Explore the essential writings of Audre Lorde, a self-described 'Black, lesbian, feminist, socialist, mother, warrior, poet.' This post delves into 'Zami: A New Spelling of My Name' and 'Sister Outsider,' highlighting her myth-busting contributions to intersectional feminism."
 ---
 
-<div class="s-content content">
+<div class="content">
     <main class="row s-styles">
         <section id="styles" class="column large-full">
 
@@ -47,7 +47,7 @@ description: "Explore the essential writings of Audre Lorde, a self-described 'B
 
                 <p><strong>Myth-Busting Insight 1: Silence Will Not Protect You.</strong> Lorde passionately believed in the power of speaking out, even when it is difficult or dangerous. She famously stated, "Your silence will not protect you." For Lorde, breaking silence was an act of self-reclamation and a necessary step towards collective action and change. Her work consistently encourages us to find our voices and speak our truths, no matter how uncomfortable they may make others (or ourselves).</p>
 
-                <p><em>Internal Link Idea: This theme of voice could connect to the future post on <a href="#">"Wordslut"</a> or the already created post on <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks</a>, who also emphasized the power of language and theory.</em></p>
+                <p>This emphasis on the power of language and voice connects deeply with the work of <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks</a>, who also stressed the importance of theory and articulation in feminist struggle. We'll explore language further in a future piece on "Wordslut."</p>
 
                 <h2>"Zami: A New Spelling of My Name" – A Biomythography</h2>
 
@@ -77,7 +77,7 @@ description: "Explore the essential writings of Audre Lorde, a self-described 'B
 
                 <p>"Sister Outsider" is not an easy read, but it is an essential one. It challenges readers to look critically at the world and at themselves, to engage with uncomfortable truths, and to commit to the hard work of building a more just and equitable society. It provides, as Lorde intended, tools for transformation.</p>
 
-                <p><em>Internal Link Idea: This is a great place to link to the future post on <a href="#">"Understanding Black Feminist Thought" by Patricia Hill Collins</a>, as both authors are central to Black feminist theory and intersectionality. Also, the theme of challenging mainstream feminism connects to the <a href="{{ site.baseurl }}/feminine-mystique-betty-friedan-impact">Betty Friedan</a> post.</em></p>
+                <p>Lorde's insights into Black feminist theory and intersectionality are foundational, and resonate strongly with the work of <a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">Patricia Hill Collins</a>. Her critique of a monolithic "woman's experience" also offers a vital counterpoint to earlier feminist works like <a href="{{ site.baseurl }}/feminine-mystique-betty-friedan-impact">Betty Friedan's "The Feminine Mystique."</a></p>
 
                 <h2>Lorde's Uncompromising Legacy</h2>
 
@@ -89,7 +89,7 @@ description: "Explore the essential writings of Audre Lorde, a self-described 'B
                     <li><a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks' Essential Reads</a></li>
                     <li><a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">Understanding Black Feminist Thought: Patricia Hill Collins</a></li>
                     <li><a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books to Read in 2024: A Definitive Guide</a></li>
-                     <li><a href="#">Roxane Gay's "Bad Feminist": Why These Essays Still Resonate Today</a> (Placeholder)</li>
+                    <li><a href="{{ site.baseurl }}/roxane-gay-bad-feminist-essays-resonate">Roxane Gay's "Bad Feminist": Why These Essays Still Resonate Today</a></li>
                 </ul>
 
             </div>
