@@ -6,11 +6,11 @@ author: Left Diary
 permalink: understanding-black-feminist-thought-patricia-hill-collins
 category: [feminism, Must read, Black feminist thought, Patricia Hill Collins, intersectionality, social theory]
 published: true
-link: https://amzn.to/3AqCf2S # Example Amazon link for Black Feminist Thought
+link: https://www.amazon.com/s?k=Black+Feminist+Thought+Patricia+Hill+Collins&tag=bestbooks88-20 # Generic search link
 description: "Delve into Patricia Hill Collins' seminal work, 'Black Feminist Thought.' This post unpacks key concepts like intersectionality, the matrix of domination, and controlling images, offering a myth-busting look at its profound impact on feminist theory and social justice."
 ---
 
-<div class="s-content content">
+<div class="content">
     <main class="row s-styles">
         <section id="styles" class="column large-full">
 
@@ -49,7 +49,7 @@ description: "Delve into Patricia Hill Collins' seminal work, 'Black Feminist Th
 
                 <p>Collins introduces the concept of the <strong>"matrix of domination"</strong> to describe this complex web of interconnected oppressions. Within this matrix, individuals can be simultaneously privileged in some ways and oppressed in others. For example, a white woman might experience sexism but benefit from racial privilege, while a Black man might experience racism but benefit from male privilege. Black feminist thought, by centering the experiences of those at multiple intersections of oppression (like Black women), offers a clearer view of how the entire system functions.</p>
 
-                <p><em>Internal Link Idea: This section provides a perfect opportunity to link to a future, more focused post: <a href="#">Exploring Intersectionality: Essential Feminist Books That Break Down Complex Ideas</a> (Placeholder).</em></p>
+                <p>This concept of intersectionality is crucial for a comprehensive feminist analysis. We will delve deeper into books that explore this in our upcoming piece, "Exploring Intersectionality: Essential Feminist Books That Break Down Complex Ideas."</p>
 
                 <h2>Controlling Images and the Power of Self-Definition</h2>
 
@@ -62,9 +62,7 @@ description: "Delve into Patricia Hill Collins' seminal work, 'Black Feminist Th
                     <li><strong>The Welfare Mother/Queen:</strong> The lazy, irresponsible breeder who supposedly drains public resources. This image justifies punitive social policies and attacks on Black families.</li>
                     <li><strong>The Jezebel/Hoochie:</strong> The hypersexual, promiscuous Black woman. This image has historically been used to justify sexual violence against Black women and to deny them bodily autonomy.</li>
                 </ul>
-                <p>Collins argues that a crucial aspect of Black feminist thought is the act of <strong>self-definition</strong>. By challenging these controlling images and articulating their own experiences and realities, Black women resist oppression and reclaim their subjectivity. This act of naming and defining is a profound form of empowerment.</p>
-
-                <p><em>Internal Link Idea: Could link back to the <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks post</a> when discussing shared themes of challenging stereotypes, or to the future post on <a href="#">Audre Lorde</a> regarding the power of voice.</em></p>
+                <p>Collins argues that a crucial aspect of Black feminist thought is the act of <strong>self-definition</strong>. By challenging these controlling images and articulating their own experiences and realities, Black women resist oppression and reclaim their subjectivity. This act of naming and defining is a profound form of empowerment. This resonates with themes in the work of <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks</a> on challenging stereotypes, and <a href="{{ site.baseurl }}/audre-lorde-books-zami-sister-outsider">Audre Lorde</a> on the power of voice.</p>
 
                 <h2>The Standpoint of Black Women: A Unique Epistemology</h2>
 
@@ -88,7 +86,7 @@ description: "Delve into Patricia Hill Collins' seminal work, 'Black Feminist Th
                     <li><a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks' Essential Reads: From 'Feminism is for Everybody' to 'The Will to Change'</a></li>
                     <li><a href="{{ site.baseurl }}/feminine-mystique-betty-friedan-impact">'The Feminine Mystique' by Betty Friedan: Its Enduring Impact</a></li>
                     <li><a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books to Read in 2024: A Definitive Guide</a></li>
-                    <li><a href="#">Audre Lorde Books You Can't Miss</a> (Placeholder)</li>
+                    <li><a href="{{ site.baseurl }}/audre-lorde-books-zami-sister-outsider">Audre Lorde Books You Can't Miss</a></li>
                 </ul>
 
             </div>

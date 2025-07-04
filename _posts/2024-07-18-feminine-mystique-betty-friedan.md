@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "The Feminine Mystique by Betty Friedan: Its Enduring Impact on Feminism Today"
-image: feminine-mystique-friedan.jpg # Placeholder, will use a relevant stock image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Betty_Friedan_1960.jpg/800px-Betty_Friedan_1960.jpg
 author: Left Diary
 permalink: feminine-mystique-betty-friedan-impact
 category: [feminism, Must read, history, social commentary, Betty Friedan]
 published: true
-link: https://amzn.to/40YTFsj # Example Amazon link for The Feminine Mystique
+link: https://www.amazon.com/s?k=The+Feminine+Mystique+Betty+Friedan&tag=bestbooks88-20 # Generic search link
 description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave feminism. Explore its core arguments, myth-busting truths about 'the problem that has no name,' and its lasting relevance in today's fight for gender equality."
 ---
 
-<div class="s-content content">
+<div class="content">
     <main class="row s-styles">
         <section id="styles" class="column large-full">
 
@@ -18,7 +18,7 @@ description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave femini
                 <div class="column large-full">
                     <div class="media-wrap entry__media" id="top">
                         <div style="text-align: center;" class="entry__post-thumb">
-                            <img src="{{ site.baseurl }}/assets/images/cover_pages/feminine-mystique-friedan.jpg" alt="Image related to The Feminine Mystique or Betty Friedan">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Betty_Friedan_1960.jpg/800px-Betty_Friedan_1960.jpg" alt="Portrait of Betty Friedan, circa 1960">
                         </div>
                     </div>
 
@@ -47,7 +47,7 @@ description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave femini
 
                 <p>But beneath the surface of suburban contentment, Friedan found a simmering dissatisfaction. Through interviews with her Smith College classmates and extensive research, she uncovered a generation of educated women who felt trapped, unfulfilled, and strangely empty despite having achieved the supposed female ideal. They were living in comfortable homes, had husbands and children, yet yearned for "something more."</p>
 
-                <p><em>Internal Link Idea: This could be a good place to link to a future post on "The Art of Feminism" if discussing cultural representations, or even to the <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks essential reads</a> post when comparing different eras or focuses of feminist thought.</em></p>
+                <p>This examination of societal roles and expectations can be contrasted with later feminist thinkers like <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks</a>, who expanded the critique to more explicitly include race and class. You can also explore broader cultural representations in our upcoming piece on "The Art of Feminism."</p>
 
                 <h2>Myth-Busting "The Problem That Has No Name"</h2>
 
@@ -61,11 +61,9 @@ description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave femini
 
                 <h2>The Spark for Second-Wave Feminism</h2>
 
-                <p>The impact of "The Feminine Mystique" was immediate and profound. It resonated deeply with countless women who recognized their own experiences in its pages. It provided them with a language to understand their discontent and the realization that they were not alone. This collective awakening is widely credited with igniting the [second-wave feminist movement](https://en.wikipedia.org/wiki/Second-wave_feminism) in the United States.</p>
+                <p>The impact of "The Feminine Mystique" was immediate and profound. It resonated deeply with countless women who recognized their own experiences in its pages. It provided them with a language to understand their discontent and the realization that they were not alone. This collective awakening is widely credited with igniting the <a href="https://en.wikipedia.org/wiki/Second-wave_feminism" target="_blank" rel="noopener noreferrer">second-wave feminist movement</a> in the United States.</p>
 
-                <p>Inspired by the book's call to action, Betty Friedan herself co-founded the National Organization for Women (NOW) in 1966. NOW became a crucial vehicle for advocating for women's legal and economic equality, campaigning for issues like equal employment opportunities, an end to sex-segregated job ads, and the Equal Rights Amendment.</p>
-
-                <p><em>Internal Link Idea: A future post on "Gloria Steinem's Legacy" would be a natural link here, discussing another key figure of second-wave feminism.</em></p>
+                <p>Inspired by the book's call to action, Betty Friedan herself co-founded the National Organization for Women (NOW) in 1966. NOW became a crucial vehicle for advocating for women's legal and economic equality, campaigning for issues like equal employment opportunities, an end to sex-segregated job ads, and the Equal Rights Amendment. The work of other key figures of this era, such as Gloria Steinem, would build upon this momentum (more on that in a future post!).</p>
 
                 <h2>Enduring Relevance and Necessary Critiques</h2>
 
@@ -73,9 +71,7 @@ description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave femini
 
                 <p>However, it's also essential to acknowledge the valid criticisms of the book. "The Feminine Mystique" primarily centered the experiences of white, educated, middle-class suburban housewives. It largely overlooked the realities faced by women of color, working-class women, and lesbian women, whose struggles often involved different and intersecting forms of oppression related to race and economic survival, not just the ennui of the suburban gilded cage.</p>
 
-                <p>This limitation doesn't negate the book's historical importance, but it does remind us that feminism must always strive to be intersectional. Later feminist thinkers, including many mentioned in our <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">exploration of bell hooks</a> and our upcoming piece on <a href="#">Black Feminist Thought</a> (placeholder), built upon and challenged earlier frameworks to create a more inclusive and comprehensive understanding of gender justice.</p>
-
-                <p><em>Internal Link Idea: Definitely link to the future "Understanding Black Feminist Thought" and "Books about Intersectionality" posts here.</em></p>
+                <p>This limitation doesn't negate the book's historical importance, but it does remind us that feminism must always strive to be intersectional. Later feminist thinkers, including many mentioned in our <a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">exploration of bell hooks</a> and our post on <a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">Black Feminist Thought</a>, built upon and challenged earlier frameworks to create a more inclusive and comprehensive understanding of gender justice. Understanding these critiques is vital when placing "The Feminine Mystique" in the broader feminist canon, a topic we touch on in our <a href="{{ site.baseurl }}/best-feminist-books-2024-guide">guide to essential feminist books</a>.</p>
 
                 <h2>Is "The Feminine Mystique" Still a "Must-Read"?</h2>
 
@@ -88,8 +84,8 @@ description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave femini
                 <ul>
                     <li><a href="{{ site.baseurl }}/bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change">bell hooks' Essential Reads: From 'Feminism is for Everybody' to 'The Will to Change'</a></li>
                     <li><a href="{{ site.baseurl }}/beginner-feminist-books">New to Feminism? Here are 10 Essential Books to Get You Started</a></li>
-                    <li><a href="#">Understanding Black Feminist Thought: Key Insights from Patricia Hill Collins</a> (Placeholder)</li>
-                    <li><a href="#">Best Feminist Books to Read in 2024: A Definitive Guide</a> (Placeholder)</li>
+                    <li><a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">Understanding Black Feminist Thought: Key Insights from Patricia Hill Collins</a></li>
+                    <li><a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books to Read in 2024: A Definitive Guide</a></li>
                 </ul>
 
             </div>

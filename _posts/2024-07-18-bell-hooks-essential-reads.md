@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "bell hooks' Essential Reads: From 'Feminism is for Everybody' to 'The Will to Change'"
-image: bell-hooks-essential-reads.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/800px-Bell_hooks%2C_October_2014.jpg
 author: Left Diary
 permalink: bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change
 category: [feminism, Must read, bell hooks, social commentary]
 published: true
-link: https://amzn.to/3RZWJ3k # Generic link, can be updated to a specific book
+link: https://www.amazon.com/s?k=bell+hooks+feminist+books&tag=bestbooks88-20 # Generic search link as ASINs could not be retrieved
 description: "Dive into the transformative works of bell hooks. This post explores the core ideas of 'Feminism is for Everybody' and 'The Will to Change,' offering a myth-busting perspective on her essential contributions to feminist thought and social justice."
 ---
 
-<div class="s-content content">
+<div class="content">
     <main class="row s-styles">
         <section id="styles" class="column large-full">
 
@@ -18,7 +18,7 @@ description: "Dive into the transformative works of bell hooks. This post explor
                 <div class="column large-full">
                     <div class="media-wrap entry__media" id="top">
                         <div style="text-align: center;" class="entry__post-thumb">
-                            <img src="{{ site.baseurl }}/assets/images/cover_pages/bell-hooks-essential-reads.jpg" alt="Stack of feminist books">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/800px-Bell_hooks%2C_October_2014.jpg" alt="Portrait of bell hooks">
                         </div>
                     </div>
 
@@ -59,7 +59,7 @@ description: "Dive into the transformative works of bell hooks. This post explor
                 </ul>
 
                 <p>"Feminism is for Everybody" champions a vision of partnership and mutual respect between genders. It calls for an end to patriarchal domination not to replace it with matriarchal domination, but to create a world where everyone can be fully human. Hooks emphasizes that feminist education – understanding how sexism works – is the first step towards liberation for both women and men.</p>
-                <p><em>Internal Link Idea: Consider linking to a future post "Understanding Black Feminist Thought: Key Insights from Patricia Hill Collins" when discussing the importance of diverse feminist voices, or "Best Feminist Books to Read in 2024" as a further reading suggestion.</em></p>
+                <p>hooks' work consistently highlights the importance of diverse feminist voices. For a deeper understanding of the unique contributions of Black women to feminist theory, consider exploring <a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">"Understanding Black Feminist Thought: Key Insights from Patricia Hill Collins."</a> For more general recommendations, see our <a href="{{ site.baseurl }}/best-feminist-books-2024-guide">"Best Feminist Books to Read in 2024" guide.</a></p>
 
                 <h2>"The Will to Change: Men, Masculinity, and Love" – A Call for Emotional Honesty</h2>
 
@@ -75,7 +75,7 @@ description: "Dive into the transformative works of bell hooks. This post explor
                 </ul>
 
                 <p>The "will to change" that hooks speaks of is the conscious choice men can make to reject patriarchal scripts and embrace a love ethic. This involves unlearning harmful patterns, developing emotional literacy, and actively working to create relationships based on mutual respect, care, and accountability. It’s a call for men to become full partners in the feminist movement, not just for women's sake, but for their own liberation and healing.</p>
-                <p><em>Internal Link Idea: This section could link to a future post about "bell hooks on Love" or perhaps even "Gloria Steinem's Legacy" if discussing different feminist perspectives on male allyship.</em></p>
+                <p>hooks' exploration of love as a revolutionary practice is a recurring theme. While a dedicated post on "bell hooks on Love" is forthcoming, her ideas also resonate with the broader feminist call for societal transformation, a theme also explored by figures like <a href="{{ site.baseurl }}/feminine-mystique-betty-friedan-impact">Betty Friedan</a> in different contexts.</p>
 
                 <h2>The Enduring Power of hooks' Vision</h2>
 
@@ -86,9 +86,10 @@ description: "Dive into the transformative works of bell hooks. This post explor
                 <hr>
                 <p><strong>Further Reading & Related Posts:</strong></p>
                 <ul>
-                    <li><a href="#">Understanding Intersectionality: Essential Feminist Books</a> (Placeholder for future post)</li>
-                    <li><a href="{{ site.baseurl }}/beginner-feminist-books">New to Feminism? Here are 10 Essential Books to Get You Started</a> (Link to existing post)</li>
-                    <li><a href="#">The Feminine Mystique by Betty Friedan: Its Enduring Impact</a> (Placeholder for future post)</li>
+                    <li><a href="{{ site.baseurl }}/understanding-black-feminist-thought-patricia-hill-collins">Understanding Black Feminist Thought: Key Insights from Patricia Hill Collins</a></li>
+                    <li><a href="{{ site.baseurl }}/beginner-feminist-books">New to Feminism? Here are 10 Essential Books to Get You Started</a></li>
+                    <li><a href="{{ site.baseurl }}/feminine-mystique-betty-friedan-impact">The Feminine Mystique by Betty Friedan: Its Enduring Impact</a></li>
+                    <li><a href="{{ site.baseurl }}/best-feminist-books-2024-guide">Best Feminist Books to Read in 2024: A Definitive Guide</a></li>
                 </ul>
 
             </div>
