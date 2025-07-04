@@ -6,7 +6,7 @@ author: Left Diary
 permalink: naomi-wolf-beauty-myth-deconstructed
 category: [feminism, Must read, Naomi Wolf, beauty standards, media criticism, social commentary]
 published: true
-link: https://www.amazon.com/dp/B000QCTN5S?tag=bestbooks88-20 # ASIN for Harper Perennial 2002 Kindle Edition
+link: https://www.amazon.com/s?k=The+Beauty+Myth+Naomi+Wolf&tag=bestbooks88-20 # Generic search link
 description: "Naomi Wolf's 'The Beauty Myth' exposed how unattainable beauty standards are used against women. This post deconstructs its core arguments, its impact on third-wave feminism, and its continued relevance in a media-saturated world, while also acknowledging its controversies."
 ---
 

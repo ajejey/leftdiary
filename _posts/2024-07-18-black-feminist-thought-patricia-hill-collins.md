@@ -6,7 +6,7 @@ author: Left Diary
 permalink: understanding-black-feminist-thought-patricia-hill-collins
 category: [feminism, Must read, Black feminist thought, Patricia Hill Collins, intersectionality, social theory]
 published: true
-link: https://www.amazon.com/dp/B0BJ7M473J?tag=bestbooks88-20 # ASIN for Routledge 2022 (3rd ed.)
+link: https://www.amazon.com/s?k=Black+Feminist+Thought+Patricia+Hill+Collins&tag=bestbooks88-20 # Generic search link
 description: "Delve into Patricia Hill Collins' seminal work, 'Black Feminist Thought.' This post unpacks key concepts like intersectionality, the matrix of domination, and controlling images, offering a myth-busting look at its profound impact on feminist theory and social justice."
 ---
 

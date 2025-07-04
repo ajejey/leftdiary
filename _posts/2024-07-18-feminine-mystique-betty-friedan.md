@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Feminine Mystique by Betty Friedan: Its Enduring Impact on Feminism Today"
-image: feminine-mystique-friedan.jpg # Placeholder, will use a relevant stock image
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Betty_Friedan_1960.jpg/800px-Betty_Friedan_1960.jpg
 author: Left Diary
 permalink: feminine-mystique-betty-friedan-impact
 category: [feminism, Must read, history, social commentary, Betty Friedan]
 published: true
-link: https://www.amazon.com/dp/0393322572?tag=bestbooks88-20 # ASIN for W. W. Norton 2001 paperback edition
+link: https://www.amazon.com/s?k=The+Feminine+Mystique+Betty+Friedan&tag=bestbooks88-20 # Generic search link
 description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave feminism. Explore its core arguments, myth-busting truths about 'the problem that has no name,' and its lasting relevance in today's fight for gender equality."
 ---
 
@@ -18,7 +18,7 @@ description: "Betty Friedan's 'The Feminine Mystique' ignited second-wave femini
                 <div class="column large-full">
                     <div class="media-wrap entry__media" id="top">
                         <div style="text-align: center;" class="entry__post-thumb">
-                            <img src="{{ site.baseurl }}/assets/images/cover_pages/feminine-mystique-friedan.jpg" alt="Image related to The Feminine Mystique or Betty Friedan">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Betty_Friedan_1960.jpg/800px-Betty_Friedan_1960.jpg" alt="Portrait of Betty Friedan, circa 1960">
                         </div>
                     </div>
 

@@ -6,7 +6,7 @@ author: Left Diary
 permalink: audre-lorde-books-zami-sister-outsider
 category: [feminism, Must read, Audre Lorde, Black feminism, LGBTQ+, poetry, essays]
 published: true
-link: https://www.amazon.com/dp/B0C5N2M3FJ?tag=bestbooks88-20 # ASIN for Sister Outsider (Penguin Classics 2023)
+link: https://www.amazon.com/s?k=Audre+Lorde+books&tag=bestbooks88-20 # Generic search link for Audre Lorde books
 description: "Explore the essential writings of Audre Lorde, a self-described 'Black, lesbian, feminist, socialist, mother, warrior, poet.' This post delves into 'Zami: A New Spelling of My Name' and 'Sister Outsider,' highlighting her myth-busting contributions to intersectional feminism."
 ---
 

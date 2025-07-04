@@ -6,7 +6,7 @@ author: Left Diary
 permalink: roxane-gay-bad-feminist-essays-resonate
 category: [feminism, Must read, Roxane Gay, essays, cultural criticism, contemporary]
 published: true
-link: https://www.amazon.com/dp/B00HYG914M?tag=bestbooks88-20 # ASIN for Harper Perennial 2014 Kindle Edition
+link: https://www.amazon.com/s?k=Bad+Feminist+Roxane+Gay&tag=bestbooks88-20 # Generic search link
 description: "Roxane Gay's 'Bad Feminist' redefined what it means to be a feminist in the modern world. Explore why these sharp, witty, and deeply personal essays on culture, identity, and imperfection continue to resonate so powerfully."
 ---
 

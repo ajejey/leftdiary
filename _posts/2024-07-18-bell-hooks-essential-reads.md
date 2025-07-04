@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bell hooks' Essential Reads: From 'Feminism is for Everybody' to 'The Will to Change'"
-image: bell-hooks-essential-reads.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/800px-Bell_hooks%2C_October_2014.jpg
 author: Left Diary
 permalink: bell-hooks-essential-reads-feminism-is-for-everybody-will-to-change
 category: [feminism, Must read, bell hooks, social commentary]
@@ -18,7 +18,7 @@ description: "Dive into the transformative works of bell hooks. This post explor
                 <div class="column large-full">
                     <div class="media-wrap entry__media" id="top">
                         <div style="text-align: center;" class="entry__post-thumb">
-                            <img src="{{ site.baseurl }}/assets/images/cover_pages/bell-hooks-essential-reads.jpg" alt="Stack of feminist books">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/800px-Bell_hooks%2C_October_2014.jpg" alt="Portrait of bell hooks">
                         </div>
                     </div>
 
